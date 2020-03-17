@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>LoveCast</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -80,8 +80,12 @@
             @endif
 
             <div class="content">
+<center>
+		<img src="HELLOWORLD.jpg"/>
+</center>
+
                 <div class="title m-b-md">
-                    Laravel
+                    Welcome to LoveCast: Learn while having fun :)
                 </div>
 
                 <div class="links">
